@@ -1,0 +1,19 @@
+.h1{
+    display: flex;
+    color: brown;
+    color: #666666;
+    justify-content: center;
+    /* text-align: center; */
+    font-family: 'karla-Bold';
+}
+.items{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.last{
+    background-color: brown;
+    /* background-color: burlywood; */
+    color:white;
+}
+
